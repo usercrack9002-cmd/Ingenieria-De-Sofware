@@ -1,0 +1,17 @@
+{
+  "name": "invventas-licor-server",
+  "version": "1.0.0",
+  "description": "Backend Node.js para InvVentas Licor - Sistema de Inventario y Ventas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0",
+    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.18.0"
+  }
+}
