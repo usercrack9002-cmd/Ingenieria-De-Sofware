@@ -14,7 +14,7 @@ E-R_BD_inventa_licor.mwb:
 Diagrama Entidad-Relación de la base de datos editable en MySQL Workbench.
 
 
-INTEGRANTE:
+INTEGRANTES:
 JESHUA AARON TORRES OBANDO, 
 KENNY KEYSHON CAMPBELL MARTINEZ,
 LEONARDO SEBASTION MONDRAGON GARCIA
